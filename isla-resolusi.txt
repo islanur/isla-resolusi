@@ -2,3 +2,5 @@ ISLA RESOLUSI
 - Konsisten untuk membuat website penjualan
 - Membuat data barang penjualan
 - Membuat landing page untuk produk
+- Membuat video launching logo
+- Membuat buku album flyer untuk dekorasi
